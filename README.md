@@ -1,16 +1,30 @@
-## Hi there 👋
+```txt                                                                                                                                             
+                                    +######                                 
+                                    +######                                 
+                             :###%%%%%%%######:                             
+                             :###%%%%%%%######.                             
+                          -######@@@@@@%%%%%%%                              
+                          :######%%%%%%%%%#+++                              
+                          .#########%%%%%%*                                 
+                           ...*##****##=..                                  
+                              +##******-                                    
+                                    :++:                                    
+                                    :++:                                    
+                                    .++:                                    
+                                    .++:                                    
+                           .+++==-  .++.  -=====.                           
+                            **+++=  .++==+++++++                            
+                              .**+..:**+++.                                 
+                                 .++******.                                 
+                                 .++++++++.                                                                      
+```
+`> Full‑stack developer based in Madrid`
 
-<!--
-**carom23/carom23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Stack**
+- React · TypeScript · Vite
+- Java 21 · Spring Boot · Spring Security
+- PostgreSQL · Docker · DeFi / Web3
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Building**
+- Tradely: trading & portfolio manager
+- CRM · AI agents with n8n and Hermes
